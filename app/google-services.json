@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "261462511077",
+    "firebase_url": "https://diamon-fe9a7.firebaseio.com",
+    "project_id": "diamon-fe9a7",
+    "storage_bucket": "diamon-fe9a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261462511077:android:d9fb79c679813e57",
+        "android_client_info": {
+          "package_name": "com.fyp52147.jason.diamon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "261462511077-o8p6eprpb3e5s456nv9m4vcp0ab27mi5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fyp52147.jason.diamon",
+            "certificate_hash": "2604fcad2737fd13048e4561949b4f2c0ab1031b"
+          }
+        },
+        {
+          "client_id": "261462511077-t7vv2r6lsc54j3919d0pvinori2b6eqj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBelANub5qm2m5_JSOeGt26sv7Y67ERMo0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "261462511077-t7vv2r6lsc54j3919d0pvinori2b6eqj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

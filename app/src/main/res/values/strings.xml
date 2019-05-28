@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_name">DiaMon</string>
+    <string name="title_activity_home">DiaMon</string>
+    <string name="title_activity_logbook">Log book</string>
+    <string name="title_activity_meal">Meal</string>
+    <string name="title_activity_medication">Medication</string>
+    <string name="title_activity_profile">Profile</string>
+
+    <!--Home-->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">DiaMon</string>
+    <string name="nav_header_subtitle">Diabetes Monitoring and Support Application</string>
+    <string name="welcome">Welcome to DiaMon</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Profile Settings</string>
+    <string name="action_signout">Sign Out</string>
+
+
+    <!--Login-->
+    <string name="image">Image</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="create_new">Do not have account? Register</string>
+    <string name="failed">Failed to Login</string>
+
+
+    <!--Register-->
+
+    <!--Profile-->
+    <string name="name">Name</string>
+    <string name="gender">Gender</string>
+    <string name="phone">Phone Number</string>
+    <string name="birth">Date of Birth</string>
+    <string name="height">Height (cm)</string>
+    <string name="unit_height">cm</string>
+    <string name="weight">Weight (kg)</string>
+    <string name="unit_weight">kg</string>
+    <string name="address">Home Address</string>
+    <string name="save">Save</string>
+
+    <string-array name="genderChoice">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+    <!--Log Book-->
+    <string name="add_log">Add Log</string>
+    <string name="time">Date and Time</string>
+    <string name="glucose">Glucose</string>
+    <string name="glucose_level">Blood Glucose Level</string>
+    <string name="reading_pressure">Blood Pressure Reading</string>
+    <string name="meal">Meal</string>
+    <string name="unit_glucose">mmol/L</string>
+    <string name="blood_pressure">Blood Pressure</string>
+    <string name="unit_blood">mmHg</string>
+    <string name="condition">Condition</string>
+    <string name="insulin">Insulin</string>
+    <string name="unit_insulin">U</string>
+    <string name="add">Add</string>
+    <string-array name="mealChoice">
+        <item>Before Breakfast</item>
+        <item>After Breakfast</item>
+        <item>Before Lunch</item>
+        <item>After Lunch</item>
+        <item>Before Dinner</item>
+        <item>After Dinner</item>
+    </string-array>
+    <string-array name="conditionChoice">
+        <item>Excellent</item>
+        <item>Good</item>
+        <item>Normal</item>
+        <item>Unwell</item>
+        <item>Worst</item>
+    </string-array>
+
+    <!--Meal-->
+    <string name="date">Date</string>
+    <string name="breakfast">Breakfast</string>
+    <string name="lunch">Lunch</string>
+    <string name="dinner">Dinner</string>
+    <string name="food">Food</string>
+
+
+    <!--A1C Calculator-->
+    <string name="activity_converter_a1c_glucose">AVERAGE BLOOD GLUCOSE LEVEL</string>
+    <string name="activity_converter_a1c">A1C</string>
+    <string name="mmol_mol">mmol/mol</string>
+    <string name="mmol_L">mmol/L</string>
+    <string name="mg_dL">mg/dL</string>
+
+    <!--Hypoglycemia Management-->
+    <string name="baby_type">Baby Type</string>
+    <string name="diamom">Mother Diabetes?</string>
+    <string name="baby_hypo">Status</string>
+    <string name="title_activity_baby_list">BabyListActivity</string>
+    <string name="baby_treat">Treatment</string>
+
+    <!--BMI Calculator-->
+    <string name="underweight">Underweight</string>
+    <string name="normal">Normal</string>
+    <string name="overweight">Overweight</string>
+    <string name="obesity">Obesity</string>
+
+    <!--Education-->
+    <string name="educationQ1">Q: Is hypoglycemia dangerous?</string>
+    <string name="educationA1">A: In most cases, hypoglycemia is a harmless condition that only causes minor debilitations. However, severe hypoglycemia can cause fainting spells, blackouts and seizures, which may lead to numerous dangerous repercussions.1 It may also cause young diabetes patients to suffer from a condition called “dead-in-bed” syndrome, where they die in their sleep due to complications of severely low blood sugar.</string>
+    <string name="educaitonQ2">Q: How do you treat hypoglycemia?</string>
+    <string name="educationA2">A: Hypoglycemic episodes may be treated with glucose tablets, sweets or fruit juices. In severe cases, a glucagon injection may be required to raise your blood sugar faster.3 For long-term treatment, diet therapy may be recommended to properly facilitate food intake and regulate blood sugar levels.</string>
+    <string name="educationQ3">Q: Can hypoglycemia be cured?</string>
+    <string name="educationA3">A: Hypoglycemia is commonly caused by underlying conditions that affect glucose levels in the body. This means that the occurrence and cure of hypoglycemia in different situations largely vary. However, there are certain techniques and ways to prevent hypoglycemic episodes from happening. By properly regulating your blood sugar, there is a high chance that you can permanently remove your risk of hypoglycemia.</string>
+    <string name="educationQ4">Q: What is reactive hypoglycemia?</string>
+    <string name="educationA4">A: Reactive hypoglycemia, or postprandial hypoglycemia, refers to the dropping of blood sugar within four hours after a meal. The exact reason why this happens is unclear, but it is said to be the pancreas’ overproduction of insulin after a carbohydrate-rich meal. The raised levels of insulin do not normalize even after the meal has been digested, which can then trigger low blood sugar levels.</string>
+    <string name="educationQ5">Q: What do you do if you have hypoglycemia?</string>
+    <string name="educationA5">A: During hypoglycemic episodes, you can relieve the symptoms by drinking fruit juice or taking glucose tablets to rapidly increase your glucose levels. However, if you want to completely eliminate hypoglycemia from your life, you can control your blood glucose levels through a variety of ways, one of which is optimizing your diet to properly incorporate glucose into your system, which will ward off dangerous dips at certain times of day.</string>
+
+</resources>

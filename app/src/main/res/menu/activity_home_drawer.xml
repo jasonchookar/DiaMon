@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/ic_person_black_24dp"
+            android:title="Profile" />
+        <item
+            android:id="@+id/nav_log"
+            android:icon="@drawable/ic_book_black_24dp"
+            android:title="Log Book" />
+        <item
+            android:id="@+id/nav_medication"
+            android:icon="@drawable/ic_first_aid_kit"
+            android:title="Reminder" />
+        <item
+            android:id="@+id/nav_diet"
+            android:icon="@drawable/ic_diet"
+            android:title="Diet Record" />
+        <item
+            android:id="@+id/nav_calculator"
+            android:icon="@drawable/ic_calculator"
+            android:title="Calculator" />
+        <item
+            android:id="@+id/nav_education"
+            android:icon="@drawable/ic_graduate_cap"
+            android:title="Education" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Send" />
+        </menu>
+    </item>
+
+</menu>
